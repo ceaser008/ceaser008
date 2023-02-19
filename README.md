@@ -15,4 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=ceaser008&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Look at my contributions
-![snake gif](https://github.com/ceaser008/ceaser008/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/ceaser008/ceaser008/blob/output/github-contribution-grid-snake2.svg)
