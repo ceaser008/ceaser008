@@ -16,4 +16,4 @@ I'm currently learning rust
 
 
 ## Look at my contributions
-![snake animation](https://github.com/ceaser008/ceaser008/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ceaser008/ceaser008/blob/output/github-contribution-grid-snake.gif)
